@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  encryptation.cpp
+c:\users\dms\source\hackerrank\encryptation\encryptation\encryptation.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dms\source\hackerrank\encryptation\encryptation\encryptation.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dms\source\hackerrank\encryptation\encryptation\encryptation.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  encryptation.vcxproj -> C:\Users\dms\source\hackerrank\encryptation\Debug\encryptation.exe

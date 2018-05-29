@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ranking.cpp
+c:\users\dms\source\hackerrank\ranking\ranking\ranking.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\dms\source\hackerrank\ranking\ranking\ranking.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\dms\source\hackerrank\ranking\ranking\ranking.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  ranking.vcxproj -> C:\Users\dms\source\hackerrank\ranking\Debug\ranking.exe

@@ -1,0 +1,5 @@
+﻿  containersBall.cpp
+c:\users\dms\source\hackerrank\containersball\containersball\containersball.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\dms\source\hackerrank\containersball\containersball\containersball.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\dms\source\hackerrank\containersball\containersball\containersball.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  containersBall.vcxproj -> C:\Users\dms\source\hackerrank\containersBall\Debug\containersBall.exe
